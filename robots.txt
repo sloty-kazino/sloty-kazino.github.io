@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: sloty-kazino.github.io
+Sitemap: https://sloty-kazino.github.io/sitemap.xml
